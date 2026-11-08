@@ -26,5 +26,13 @@
     "url": "https://github.com/aqiu817/magpie-mask-context"
   },
   "homepage": "https://github.com/aqiu817/magpie-mask-context#readme",
-  "bugs": "https://github.com/aqiu817/magpie-mask-context/issues"
+  "bugs": "https://github.com/aqiu817/magpie-mask-context/issues",
+  "files": [
+    "mask-context.middleware.js",
+    "test.mjs",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
